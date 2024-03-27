@@ -1,0 +1,14 @@
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\bin\Debug\net8.0\MathQuest.exe
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\bin\Debug\net8.0\MathQuest.deps.json
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\bin\Debug\net8.0\MathQuest.runtimeconfig.json
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\bin\Debug\net8.0\MathQuest.dll
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\bin\Debug\net8.0\MathQuest.pdb
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.AssemblyInfoInputs.cache
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.AssemblyInfo.cs
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.csproj.CoreCompileInputs.cache
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.dll
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\refint\MathQuest.dll
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.pdb
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.genruntimeconfig.cache
+C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\ref\MathQuest.dll
