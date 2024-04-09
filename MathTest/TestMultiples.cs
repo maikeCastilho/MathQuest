@@ -13,7 +13,7 @@ namespace MathTest
     public class TestMultiple
     {
         [TestMethod]
-        public void TestMultiples()
+        public void TestMultiplesFromNumberFive()
         {
             //CONSTRUIR
             Multiples_number multiples_numbers = new Multiples_number();

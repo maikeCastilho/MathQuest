@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "MathQuest/1.0.0": {
+      "mathquest/1.0.0": {
         "runtime": {
-          "MathQuest.dll": {}
+          "mathquest.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MathQuest/1.0.0": {
+    "mathquest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
