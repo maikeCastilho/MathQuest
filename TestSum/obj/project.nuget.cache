@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QZWMiladEXL4YhA46yC28n8ckAcORqNJJPCFhuXDCFNNk354cbuxQYnVm+0XmpjnsD2fY3HAb/krW6kJeXc5XQ==",
+  "dgSpecHash": "QJtHalouJQA3pSAX6fIrGG95zMloA1zP9vPY58U1SMk+8lCn608znn/TdlXtGUlt9YxoGA8y14ShU8HMUxg0dA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathTest\\MathTest.csproj",
+  "projectFilePath": "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\TestSum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Allcateia - Maike\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Allcateia - Maike\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

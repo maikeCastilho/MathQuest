@@ -4,12 +4,12 @@
     "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathTest\\MathTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\MathQuest.csproj": {
+    "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\MathQuest.csproj",
-        "projectName": "MathQuest",
-        "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\MathQuest.csproj",
+        "projectUniqueName": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj",
+        "projectName": "mathquest",
+        "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj",
         "packagesPath": "C:\\Users\\Allcateia - Maike\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\obj\\",
         "projectStyle": "PackageReference",
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\MathQuest.csproj": {
-                "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\MathQuest.csproj"
+              "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj": {
+                "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj"
               }
             }
           }

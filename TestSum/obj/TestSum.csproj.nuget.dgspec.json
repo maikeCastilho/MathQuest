@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj": {}
+    "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\TestSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj": {
+    "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\TestSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj",
-        "projectName": "mathquest",
-        "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj",
+        "projectUniqueName": "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\TestSum.csproj",
+        "projectName": "TestSum",
+        "projectPath": "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\TestSum.csproj",
         "packagesPath": "C:\\Users\\Allcateia - Maike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\obj\\",
+        "outputPath": "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

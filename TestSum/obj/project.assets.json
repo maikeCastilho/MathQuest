@@ -389,16 +389,6 @@
             "related": ".xml"
           }
         }
-      },
-      "mathquest/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/mathquest.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/mathquest.dll": {}
-        }
       }
     }
   },
@@ -996,11 +986,6 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "mathquest/1.0.0": {
-      "type": "project",
-      "path": "../MathQuest/mathquest.csproj",
-      "msbuildProject": "../MathQuest/mathquest.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1008,8 +993,7 @@
       "MSTest.TestAdapter >= 3.1.1",
       "MSTest.TestFramework >= 3.1.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
-      "coverlet.collector >= 6.0.0",
-      "mathquest >= 1.0.0"
+      "coverlet.collector >= 6.0.0"
     ]
   },
   "packageFolders": {
@@ -1019,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathTest\\MathTest.csproj",
-      "projectName": "MathTest",
-      "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathTest\\MathTest.csproj",
+      "projectUniqueName": "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\TestSum.csproj",
+      "projectName": "TestSum",
+      "projectPath": "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\TestSum.csproj",
       "packagesPath": "C:\\Users\\Allcateia - Maike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathTest\\obj\\",
+      "outputPath": "C:\\Users\\Allcateia - Maike\\Source\\Repos\\MathQuest\\TestSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1043,11 +1027,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj": {
-              "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\MathQuest\\MathQuest\\mathquest.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

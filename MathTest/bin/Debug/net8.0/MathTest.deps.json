@@ -10,9 +10,9 @@
         "dependencies": {
           "MSTest.TestAdapter": "3.1.1",
           "MSTest.TestFramework": "3.1.1",
-          "MathQuest": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "coverlet.collector": "6.0.0",
+          "mathquest": "1.0.0",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
@@ -348,7 +348,7 @@
         }
       },
       "System.Reflection.Metadata/1.6.0": {},
-      "MathQuest/1.0.0": {
+      "mathquest/1.0.0": {
         "runtime": {
           "MathQuest.dll": {}
         }
@@ -439,7 +439,7 @@
       "path": "system.reflection.metadata/1.6.0",
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
     },
-    "MathQuest/1.0.0": {
+    "mathquest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

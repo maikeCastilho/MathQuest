@@ -115,3 +115,4 @@ C:\Users\Allcateia - Maike\source\repos\MathQuest\MathTest\obj\Debug\net8.0\refi
 C:\Users\Allcateia - Maike\source\repos\MathQuest\MathTest\obj\Debug\net8.0\MathTest.pdb
 C:\Users\Allcateia - Maike\source\repos\MathQuest\MathTest\obj\Debug\net8.0\MathTest.genruntimeconfig.cache
 C:\Users\Allcateia - Maike\source\repos\MathQuest\MathTest\obj\Debug\net8.0\ref\MathTest.dll
+C:\Users\Allcateia - Maike\Source\Repos\MathQuest\MathTest\obj\Debug\net8.0\MathTest.sourcelink.json

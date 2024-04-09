@@ -12,3 +12,4 @@ C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\ref
 C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.pdb
 C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.genruntimeconfig.cache
 C:\Users\Allcateia - Maike\source\repos\MathQuest\MathQuest\obj\Debug\net8.0\ref\MathQuest.dll
+C:\Users\Allcateia - Maike\Source\Repos\MathQuest\MathQuest\obj\Debug\net8.0\MathQuest.sourcelink.json
